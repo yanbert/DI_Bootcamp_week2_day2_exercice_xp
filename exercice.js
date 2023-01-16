@@ -34,7 +34,14 @@ if (verif == 0) {
 
 
 /**********exercice 4******** */
-
+/**
+  Correcteur: Yannick GOUGUIA 
+  Merci de revoir ce code. 
+  les conditions ne sont les bien faites,
+  les accolades ne sont pas fermés 
+  j'ai des erreurs a l'execution
+    
+*/
 const users = ["Lea123", "Princess45", "cat&doglovers", "helooo@000"];
 //const users = ["Lea123", "Princess45"];
 if (users.length == 0) {
